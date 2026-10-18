@@ -31,7 +31,7 @@ Disclaimer: Stock Star is an educational project. It does not execute real stock
 | Git and GitHub | Version control and source-code hosting |
 
 📂 Project Structure
-
+```
 stock-star/
 ├── backend/
 │   ├── app.py
@@ -201,6 +201,7 @@ Content-Type: application/json
 The backend calculates the purchase cost, checks the virtual balance and updates its in-memory portfolio.
 
  Data Flow
+ ```
 User
   |
   v
